@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Power BI temporary/backup files
+*.pbit
+~$*
+
+# Local data
+data/local/
+
+# Secrets
+*.secret
+secrets/
